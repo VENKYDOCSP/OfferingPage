@@ -250,7 +250,7 @@
             <p class=" ps-1 ps-md-5 fs-6 text-center pe-1 pe-md-5" style="font-weight: 400">We offer excellent steel goods and services to a range of sectors, including manufacturing, infrastructure, and construction. Our expert fabricators excel in creating custom steel products with exact measurements, fine craftsmanship, and quick turnaround times. We provide expert services in project management, engineering, design, and consulting. </p>
         </div>
     </div>
-   
+
     <div class="bg-img">
         <div class="container my-5">
             <div class="row py-5 d-flex justify-content-center align-items-center ">
@@ -262,19 +262,36 @@
                             <p class="fs-4   desg-hed">Design and Engineering</p>
                             <p class="fs-6">We provides design and build services for construction projects, with a priority on professional craftsmanship and preparation consistency. </p>
                         </div>
-                        <div class="ps-3 pb-4">
-                            <a href="./Design_and_Engineering.php"> <i><svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_489_3000)">
-                                            <path class="svg-img" d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path class="svg-img" d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path class="svg-img" d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                        <div class="ps-3 pb-4 svg-container">
+                            <span class="svgArrow">
+                                <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g class="svg-img" clip-path="url(#clip0_489_3000)">
+                                        <path d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_489_3000">
+                                            <rect width="44" height="44" fill="white" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </span>
+                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+                                        <g clip-path="url(#clip0_1227_407)">
+                                            <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 29.3333L34.8333 22" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 14.668L34.8333 22.0013" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
                                         </g>
                                         <defs>
-                                            <clipPath id="clip0_489_3000">
+                                            <clipPath id="clip0_1227_407">
                                                 <rect width="44" height="44" fill="white" />
                                             </clipPath>
                                         </defs>
-                                    </svg></i></a>
+                                    </svg>
+                                </i></button>
+                            <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
                 </div>
@@ -286,19 +303,36 @@
                             <p class="fs-4    desg-hed">Fabrication & Erection</p>
                             <p class="fs-6">Our fabrication services concentrate on using modern techniques and qualified fabricators to create precise, effective steel components and structures.</p>
                         </div>
-                        <div class="ps-3 pb-4">
-                            <i><svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <g clip-path="url(#clip0_489_3000)">
-                                        <path class="svg-img" d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                        <div class="ps-3 pb-4 svg-container">
+                            <span class="svgArrow">
+                                <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g class="svg-img" clip-path="url(#clip0_489_3000)">
+                                        <path d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
                                     </g>
                                     <defs>
                                         <clipPath id="clip0_489_3000">
                                             <rect width="44" height="44" fill="white" />
                                         </clipPath>
                                     </defs>
-                                </svg></i>
+                                </svg>
+                            </span>
+                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+                                        <g clip-path="url(#clip0_1227_407)">
+                                            <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 29.3333L34.8333 22" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 14.668L34.8333 22.0013" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_1227_407">
+                                                <rect width="44" height="44" fill="white" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                </i></button>
+                            <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
                 </div>
@@ -310,19 +344,36 @@
                             <p class="fs-4 desg-hed">EPC Projects</p>
                             <p class="fs-6">We provide EPC services for steel projects, with a focus on design optimization, functionality, and efficiency. We find excellent supplies and parts, and a construction management team watches over the project's performance. </p>
                         </div>
-                        <div class="ps-3 pb-4">
-                            <i><svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <g clip-path="url(#clip0_489_3000)">
-                                        <path class="svg-img" d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                        <div class="ps-3 pb-4 svg-container">
+                            <span class="svgArrow">
+                                <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g class="svg-img" clip-path="url(#clip0_489_3000)">
+                                        <path d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
                                     </g>
                                     <defs>
                                         <clipPath id="clip0_489_3000">
                                             <rect width="44" height="44" fill="white" />
                                         </clipPath>
                                     </defs>
-                                </svg></i>
+                                </svg>
+                            </span>
+                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+                                        <g clip-path="url(#clip0_1227_407)">
+                                            <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 29.3333L34.8333 22" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 14.668L34.8333 22.0013" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_1227_407">
+                                                <rect width="44" height="44" fill="white" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                </i></button>
+                            <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
                 </div>
@@ -334,19 +385,36 @@
                             <p class="fs-4 desg-hed">Equipment Supply</p>
                             <p class="fs-6">For projects involving steel, We provide high-quality equipment supply services, working with dependable vendors to guarantee equipment satisfies quality standards.</p>
                         </div>
-                        <div class="ps-3 pb-4">
-                            <i><svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <g clip-path="url(#clip0_489_3000)">
-                                        <path class="svg-img" d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                        <div class="ps-3 pb-4 svg-container">
+                            <span class="svgArrow">
+                                <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g class="svg-img" clip-path="url(#clip0_489_3000)">
+                                        <path d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
                                     </g>
                                     <defs>
                                         <clipPath id="clip0_489_3000">
                                             <rect width="44" height="44" fill="white" />
                                         </clipPath>
                                     </defs>
-                                </svg></i>
+                                </svg>
+                            </span>
+                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+                                        <g clip-path="url(#clip0_1227_407)">
+                                            <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 29.3333L34.8333 22" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 14.668L34.8333 22.0013" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_1227_407">
+                                                <rect width="44" height="44" fill="white" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                </i></button>
+                            <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
                 </div>
@@ -358,30 +426,47 @@
                             <p class="fs-4 desg-hed">Trading</p>
                             <p class="fs-6">We obtain steel components, materials, and goods from dependable producers, suppliers, and distributors for the infrastructure, manufacturing, and construction industries, Utilizing our supplier networks and industry knowledge.</p>
                         </div>
-                        <div class="ps-3 pb-4">
-                            <i><svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <g clip-path="url(#clip0_489_3000)">
-                                        <path class="svg-img" d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path class="svg-img" d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                        <div class="ps-3 pb-4 svg-container">
+                            <span class="svgArrow">
+                                <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g class="svg-img" clip-path="url(#clip0_489_3000)">
+                                        <path d="M9.17188 22H34.8385" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 29.3333L34.8333 22" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        <path d="M27.5 14.668L34.8333 22.0013" stroke="#111111" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
                                     </g>
                                     <defs>
                                         <clipPath id="clip0_489_3000">
                                             <rect width="44" height="44" fill="white" />
                                         </clipPath>
                                     </defs>
-                                </svg></i>
+                                </svg>
+                            </span>
+                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+                                        <g clip-path="url(#clip0_1227_407)">
+                                            <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 29.3333L34.8333 22" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M27.5 14.668L34.8333 22.0013" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_1227_407">
+                                                <rect width="44" height="44" fill="white" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                </i></button>
+                            <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
                 </div>
 
             </div>
-        </div>  
-    </div> 
+        </div>
+    </div>
 
 
 
-    
+
     <p class="text-center mt-5 fs-1 mb-3 vr-bldin-shp px-3">Fabricating Structural Steel since 1994</p>
     <div class="container">
         <p class="vr-bldin-shp-p text-center py-2 px-3">Since 1994, ATMASTCO has been a trustworthy figure in the steel production industry. To address the demands of various industries, they invest in cutting-edge facilities, machinery, and qualified people with a focus on quality and customer satisfaction. We have a committed workforce offering products and services of the highest quality.</p>
