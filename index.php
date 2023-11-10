@@ -79,7 +79,7 @@
                         <!-- <a class="nav-link cool-link" style="color: #000000;" href="invester_relation.php">Investor relations</a> -->
 
                         <div class="dropdown">
-                            <button class="btn btn-secondary dropdown-toggle drop_downBTN" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <button class="btn btn-secondary dropdown-toggle drop_downBTN clr" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Investors relation
                             </button>
                             <ul class="dropdown-menu">
@@ -258,7 +258,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
             <div class="row py-5 d-flex justify-content-center align-items-center ">
 
                 <div class=" col-12 col-md-4  mt-4 ">
-                    <div class=" fs-1 d-flex flex-column align-items-start justify-content-between ps-3 rounded-0 zoomm howeverr desing-ng-imgg">
+                    <div class=" fs-1 d-flex flex-column   justify-content-between ps-3 rounded-0 zoomm howeverr desing-ng-imgg">
                         <div class="col-9 ps-3">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon1.png" class="  img-icon" alt=""></span>
                             <p class="fs-4   desg-hed">Design and Engineering</p>
@@ -279,7 +279,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
+                            <a href="./DesignandEngineering.php"> <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -292,8 +292,8 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
-                            <a href="./Design_and_Engineering.php"></a>
+                                </i></p>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -320,7 +320,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
+                            <a href="./DesignandEngineering.php">  <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -334,7 +334,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                         </defs>
                                     </svg>
                                 </i></p>
-                            <a href="./Design_and_Engineering.php"></a>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -361,7 +361,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
+                            <a href="./DesignandEngineering.php">   <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -375,12 +375,12 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                         </defs>
                                     </svg>
                                 </i></p>
-                            <a href="./Design_and_Engineering.php"></a>
+                             </a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-12 col-md-4  mt-5">
+                <div class="col-12 col-md-5   mt-5">
                     <div class="fs-1 d-flex flex-column align-items-start justify-content-between ps-3 rounded-0 zoomm howeverr desing-ng-img22">
                         <div class="col-12 ps-3">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon4.png" class="  img-icon" alt=""></span>
@@ -402,7 +402,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
+                            <a href="./DesignandEngineering.php">   <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -416,12 +416,12 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                         </defs>
                                     </svg>
                                 </i></p>
-                            <a href="./Design_and_Engineering.php"></a>
+                             </a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-12 col-md-4  mt-5">
+                <div class="col-12 col-md-5  mt-5">
                     <div class="fs-1 d-flex flex-column align-items-start justify-content-between ps-3 rounded-0 zoomm howeverr desing-ng-img22">
                         <div class="col-12  ">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon5.png" class="  img-icon" alt=""></span>
@@ -443,7 +443,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
+                            <a href="./DesignandEngineering.php">   <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -457,7 +457,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                         </defs>
                                     </svg>
                                 </i></p>
-                            <a href="./Design_and_Engineering.php"></a>
+                            </a>
                         </div>
                     </div>
                 </div>

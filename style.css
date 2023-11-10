@@ -756,3 +756,16 @@ a {
     display: none;
 
 }
+
+.drop_downBTN{
+    color: white;
+}
+.drop_downBTN:hover{
+    color: white !important;
+}
+.clr{
+    color: #000000 !important;
+}
+.clr:hover{
+    color: black !important;
+}
