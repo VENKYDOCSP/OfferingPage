@@ -1,0 +1,11 @@
+[04-Sep-2023 10:26:02 UTC] PHP Warning:  Undefined variable $conn in /home/cvsbyf85i1m9/public_html/admin/data.php on line 16
+[04-Sep-2023 10:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cvsbyf85i1m9/public_html/admin/data.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cvsbyf85i1m9/public_html/admin/data.php on line 16
+[04-Sep-2023 10:27:32 UTC] PHP Warning:  Undefined array key "admin" in /home/cvsbyf85i1m9/public_html/admin/data.php on line 23
+[04-Sep-2023 10:27:32 UTC] PHP Warning:  Undefined variable $result in /home/cvsbyf85i1m9/public_html/admin/data.php on line 125
+[04-Sep-2023 10:27:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cvsbyf85i1m9/public_html/admin/data.php on line 125
+[04-Sep-2023 10:29:32 UTC] PHP Warning:  Undefined array key "admin" in /home/cvsbyf85i1m9/public_html/admin/data.php on line 23
+[04-Sep-2023 10:29:32 UTC] PHP Warning:  Undefined variable $result in /home/cvsbyf85i1m9/public_html/admin/data.php on line 125
+[04-Sep-2023 10:29:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cvsbyf85i1m9/public_html/admin/data.php on line 125
