@@ -2,6 +2,10 @@
      --h1colour: #2D80C3;
      --text-color: #383434;
  }
+ *{
+    font-family: Poppins;
+ }
+ 
 
  /* color: var(--blue); */
  html {

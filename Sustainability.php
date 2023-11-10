@@ -49,8 +49,7 @@
                     <h5 class="card-title">Sports Activity</h5>
                     <p class="card-text">Games and sports are important to maintain a healthy life both physically and mentally. It keeps a person mentally fresh and focused. It helps develop team spirit and good coordination among teammates..</p>
                 </div>
-            </div>
-            <!-- <div id="myDI"> -->
+            </div> 
             <div class="col-12 Variable" id="Award" style="display:none">
                 <div class="card border-0">
                     <img class="card-img-top img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/image+66.png" alt="Card image cap">
@@ -80,8 +79,10 @@
             </div>
             <div class="col-12 Variable" id="Annual" style="display:none">
                 <div class="card border-0">
-                    <img class="card-img-top img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687432263/atmosco/image_13_2_gim86d.png" alt="Card image cap">
-                    <div class="card-body">
+                <div class="projectcaro    ">
+                    <div class="img-hover"><img class="img-fluid mx-auto my-auto  rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/20231106_115123.png" alt=""></div>
+                    <div class=" img-hover"><img class="img-fluid mx-auto  text-center rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/20231106_114922.png" alt=""></div>
+                  </div>                    <div class="card-body">
                         <h5 class="card-title">Annual Health CheckUp</h5>
                         <p class="card-text">ATMASTCO prioritizes CSR (Corporate Social Responsibility), community development, and environmental sustainability, collaborating with local organizations, non-profits, and government entities for sustainable practices.</p>
                     </div>
@@ -93,12 +94,7 @@
 </div>
 </div>
 
-<div class="container text-center mt-2">
-    <video style="width: 85%;" loop autoplay preload="none">
-        <source src="https://atmastco.s3.eu-north-1.amazonaws.com/Atmastco-AD-1-2+1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+
 <div class="container mb-5 mt-4 mt-md-5 py-0 py-md-5">
     <div class="row  ">
         <div class="col-12 col-md-6  ">
