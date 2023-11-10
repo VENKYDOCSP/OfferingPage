@@ -718,6 +718,8 @@ a {
   border-radius: 4px;
   background: #2d80c3;
   border: none;
+  /* transition: 01s; */
+  /* transition: 10s; */
 }
 
 .howeverr button{
@@ -733,13 +735,9 @@ button:hover{
 
 .howeverr:hover  button{
     display: block;
-    transition-timing-function: ease-in;
-    transition: width 2s;
+  
 }
 .howeverr:hover .svgArrow {
     display: none;
-    transition-timing-function: ease-in;
 
-  /* Quick on the way out */
-  transition: 0.2s;
 }
