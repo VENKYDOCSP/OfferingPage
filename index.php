@@ -159,9 +159,9 @@
 
             <div class="col-12 col-md-6">
                 <div class="hommecaroi">
-                    <img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687497362/atmosco/Group_37279_p2khsu.png" alt="">
-                    <img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687497362/atmosco/Group_37279_p2khsu.png" alt="">
-                    <img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687497362/atmosco/Group_37279_p2khsu.png" alt="">
+                    <img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Frame+95.png" alt="">
+                    <img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Fabrication+%26+Erection.png" alt="">
+                    <!-- <img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687497362/atmosco/Group_37279_p2khsu.png" alt=""> -->
                 </div>
             </div>
         </div>
