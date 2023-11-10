@@ -718,14 +718,15 @@ a {
   width: 30%;
 }
 
-.howeverr button {
+.howeverr{
+    transition: width 2s;
+}
+ .knowMore {
   border-radius: 4px;
   background: #2d80c3;
   border: none;
-  /* transition: 01s; */
-  transition: 10s;
-  /* transform: translate(0%);
-  transition-timing-function: linear; */
+  width: 100px;
+  transition-timing-function: linear
   
 }
 
@@ -734,25 +735,23 @@ a {
 #div3 {transition-timing-function: ease-in;}
 #div4 {transition-timing-function: ease-out;}
 #div5 {transition-timing-function: ease-in-out;} */
-.howeverr button{
+.knowMore{
     display: none;
-    transition: 10s;
 }
-.howeverr button .arrow{
+.howeverr  .arrow{
     display: block;
-    transition: 10s;
 }
 
-.howeverr button:hover{
+.howeverr .knowMore:hover{
     background: #2d80c3 !important;
+   
 }
 
-.howeverr:hover  button{
+.howeverr:hover  .knowMore{
     display: block;
-    transform: scale(1);
-
-  
+    width: 180px;
 }
+
 .howeverr:hover .svgArrow {
     display: none;
 

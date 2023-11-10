@@ -277,7 +277,7 @@
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -290,7 +290,7 @@
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
@@ -318,7 +318,7 @@
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -331,7 +331,7 @@
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
@@ -359,7 +359,7 @@
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -372,7 +372,7 @@
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
@@ -400,7 +400,7 @@
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -413,7 +413,7 @@
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
@@ -441,7 +441,7 @@
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -454,7 +454,7 @@
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
