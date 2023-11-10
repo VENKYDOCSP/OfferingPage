@@ -723,22 +723,34 @@ a {
   background: #2d80c3;
   border: none;
   /* transition: 01s; */
-  /* transition: 10s; */
+  transition: 10s;
+  /* transform: translate(0%);
+  transition-timing-function: linear; */
+  
 }
 
+/* #div1 {transition-timing-function: linear;}
+#div2 {transition-timing-function: ease;}
+#div3 {transition-timing-function: ease-in;}
+#div4 {transition-timing-function: ease-out;}
+#div5 {transition-timing-function: ease-in-out;} */
 .howeverr button{
     display: none;
+    transition: 10s;
 }
 .howeverr button .arrow{
     display: block;
+    transition: 10s;
 }
 
-button:hover{
+.howeverr button:hover{
     background: #2d80c3 !important;
 }
 
 .howeverr:hover  button{
     display: block;
+    transform: scale(1);
+
   
 }
 .howeverr:hover .svgArrow {
