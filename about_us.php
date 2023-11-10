@@ -9,7 +9,7 @@
             <p class="mt-3 our-miss-cont" style="text-align: justify;">Our goal is to transform the steel industry by focusing on innovation, quality, and customer pleasure. We place a high priority on technology, a customer-centric approach, sustainability, and responsibility for the environment. By encouraging partnerships and fostering continual improvements, we support the development of the industry. Our objective is to leave our mark of excellence while impacting the direction of steel production.</p>
         </div>
         <div class="col-12 col-md-6 p-2 p-md-4">
-            <div class="d-flex align-items-center justify-content-evenly">
+            <!-- <div class="d-flex align-items-center justify-content-evenly">
                 <div class=""><img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687349317/atmosco/image_36_c475zd.svg" alt=""></div>
                 <div class=""><img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687349317/atmosco/image_37_h0gs0r.svg" alt=""></div>
                 <div class=""><img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687349317/atmosco/Frame_11_bjuuzg.svg" alt=""></div>
@@ -23,7 +23,10 @@
                 <div class=""><img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687349319/atmosco/image_30_yyknp9.svg" alt=""></div>
                 <div class=""><img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687349319/atmosco/image_26_eeubkr.svg" alt=""></div>
                 <div class=""><img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687349317/atmosco/image_34_h5nynd.svg" alt=""></div>
-            </div>
+            </div> -->
+            <div class="d-flex justify-content-center">
+                <div class=""><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/image+4.png" alt=""></div>
+              </div>
         </div>
     </div>
 </div>
@@ -43,9 +46,9 @@
 <p class="fs-1 our-serv-hed mt-2 mt-md-5 text-start text-md-center px-4 px-md-5">Our Services</p>
 <div class="container"> <p class="our-serv-cont text-start text-md-center px-4 px-md-5">ATMASTCO offers services to the steel sector with a focus on usability, security, and sustainability. We help clients with Mep contractors, cutting-edge technologies, and creative designs.</p>
 </div>
-<div class="container mt-5">
+ <div class="container mt-5">
     <div class="row">
-        <div class="col-md-4 col-12 text-center d-flex align-items-center  flex-column">
+        <!-- <div class="col-md-4 col-12 text-center d-flex align-items-center  flex-column">
             <div class="col-12 pt-4   bg-hover  DivHighlight default" style="height: 80px;" onclick="openCity('Sports')">
                 <p class="  fs-5"> Design and Engineering </p>
             </div>
@@ -61,16 +64,15 @@
             <div class="col-12 pt-4   bg-hover DivHighlight" style="height: 80px;" onclick="openCity('Annual')">
                 <p class="fs-5">Trading</p>
             </div>
-        </div>
-        <div class="col-md-8 col-12" >
+        </div> -->
+        <!-- <div class="col-md-8 col-12" >
             <div class="card border-0 Variable" id="Sports">
                 <img class="card-img-top img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687350235/atmosco/image_7_jnqpem.svg" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title tit-card">Design and Engineering</h5>
                     <p class="card-text">We provide design and engineering services for steel projects by fusing creativity, technical know-how, and sector knowledge. Our group of talented designers, engineers, and architects works together to develop fresh concepts, enhance structural analyses, and make use of 3D modeling tools. We guarantee precise construction drawings, code observance, and value engineering services, turning our clients into trusted partners in the construction of steel projects.</p>
                 </div>
-            </div>
-            <!-- <div id="myDI"> -->
+            </div> 
             <div class="col-12 Variable" id="Award" style="display:none">
                 <div class="card border-0">
                     <img class="card-img-top img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687432069/atmosco/image_11_ojkkbx.png" alt="Card image cap">
@@ -107,10 +109,15 @@
                     </div>
                 </div>
             </div>
-            <!-- </div> -->
-        </div>
-    </div>
-    <!-- associated companis -->
+              </div> 
+        </div> -->
+    </div> 
+    <div class="container text-center mt-2">
+    <video style="width: 85%;" loop autoplay preload="none">
+        <source src="https://atmastco.s3.eu-north-1.amazonaws.com/Atmastco-AD-1-2+1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
     <p class="fs-1 our-serv-hed mt-5 text-start text-md-center px-4 px-md-5">Associated Companies</p>
     <p class="our-serv-cont   text-start text-md-center px-4 px-md-5">Lorem ipsum dolor sit amet consectetur. Tempus enim nec est quis.
         Eget eget facilisis facilisis erat in arcu vitae eu. Est amet tincidunt nulla quisque turpis felis nunc
@@ -174,7 +181,8 @@
             </div>
         </div>
     </div>
-</div>
+</div>  
+ 
 
 <div class="text-center mt-2 mt-md-4 pt-1 pt-md-5 " style="color: #2D80C3;">
     <p class="fs-1 fw-bold ">Government Organisations</p>
