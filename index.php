@@ -76,25 +76,25 @@
                         <a class="nav-link cool-link" style="color: #000000;" href="Sustainability">Sustainability</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link cool-link" style="color: #000000;" href="invester_relation.php">Investor relations</a>
+                        <!-- <a class="nav-link cool-link" style="color: #000000;" href="invester_relation.php">Investor relations</a> -->
 
-                        <!-- <div class="dropdown">
+                        <div class="dropdown">
                             <button class="btn btn-secondary dropdown-toggle drop_downBTN" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            investors relation
+                            Investors relation
                             </button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="invester_relation#col1"  >Notice & Announcements</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col2">Corporate Governance</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col3">Codes & Policies</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col4">Financial Statement</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col5">Annual Report</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col6">Annual Return</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col7">Other Disclosures</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col8">Grievance Redressal</a></li>
-                                <li><a class="dropdown-item" href="invester_relation#col9">RTA Details</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col1"  >Notice & Announcements</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col2">Corporate Governance</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col3">Codes & Policies</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col4">Financial Statement</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col5">Annual Report</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col6">Annual Return</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col7">Other Disclosures</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col8">Grievance Redressal</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col9">RTA Details</a></li>
                             </ul>
                             
-                        </div> -->
+                        </div>
                     </li>
 
                     <li class="nav-item">
@@ -244,16 +244,16 @@
     </div>
     <div class="container bg_IMGg ">
         <div>
-            <p class="fs-1 text-center fs-bold my-4" style="color:#2D80C3; font-weight: 500;">Offerings</p>
+            <p class="fs-1 text-center fs-bold my-4 pt-2" style="color:#2D80C3; font-weight: 500;">Our Projects</p>
         </div>
         <div class=" ps-1 ps-md-5 pe-1 pe-md-5">
-            <p class=" ps-1 ps-md-5 fs-6 text-center pe-1 pe-md-5" style="font-weight: 400">Welcome to a world of EPC excellence where innovation meets precision. Our commitment extends beyond projects to offer a wide spectrum of structural steel goods and services, tailored to diverse sectors including manufacturing, power and energy, ferro and non-ferrous alloy refinement, infrastructure, and construction. Our Expert Engineers, Consultants, and Executors are the true artists who lead our teams to achieve our goals within the stipulated time and with utmost attention to quality.
+            <p class=" ps-1 ps-md-5 fs-6 text-center pe-1 pe-md-3" style="font-weight: 400">Welcome to a world of EPC excellence where innovation meets precision. Our commitment extends beyond projects to offer a wide spectrum of structural steel goods and services, tailored to diverse sectors including manufacturing, power and energy, ferro and non-ferrous alloy refinement, infrastructure, and construction. Our Expert Engineers, Consultants, and Executors are the true artists who lead our teams to achieve our goals within the stipulated time and with utmost attention to quality.
 Our portfolio includes top-tier services in project management, engineering, cutting-edge design, and invaluable consulting expertise. Discover the future of steel, meticulously engineered for your success, and experience the difference with us.
 </p>
         </div>
     </div>
 
-    <div class="bg-img">
+    <div class="bg-img-offering">
         <div class="container my-5">
             <div class="row py-5 d-flex justify-content-center align-items-center ">
 
@@ -292,8 +292,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
-                            <a href="./Design_and_Engineering.php"></a>
+                                </i></button> 
                         </div>
                     </div>
                 </div>

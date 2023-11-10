@@ -46,9 +46,9 @@
 
         </div> -->
         <div class="row d-flex justify-content-center align-items-center">
-            <div class=" col-12  card border-0 Variable  shadow  m-2" id="col1" style="margin-top: -20px;">
+            <div class=" col-12  card border-0 Variable  shadow    my-3" id="col1"  >
                 <div class="card-body">
-                    <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Annual Reports</h3>
+                    <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Notice & Announcements</h3>
                     <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
 
                         <div class="row mt-3  pt-4 justify-content-around mt-3 p-3 rounded">
@@ -98,10 +98,10 @@
                     </div>
                 </div>
             </div> 
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col2" style="">
+            <div class="col-12 col-md-5 Variable shadow  my-3" id="col2" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Financials & Filings</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Corporate Governance</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Record Date CP Sept 2023</span></a></p>
@@ -114,10 +114,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col3" style="">
+            <div class="col-12 col-md-5 Variable shadow  m-3" id="col3" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Subsidiaries Financial</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Codes & Policies</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Annexure XIV-B of Chapter XIV</span></a></p>
@@ -130,10 +130,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col4" style="">
+            <div class="col-12 col-md-5 Variable shadow  m-3" id="col4" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Subsidiaries Financial</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Financial Statement</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Annexure XIV-B of Chapter XIV</span></a></p>
@@ -146,10 +146,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col5" style="">
+            <div class="col-12 col-md-5 Variable shadow  m-3" id="col5" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Subsidiaries Financial</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Annual Report</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Annexure XIV-B of Chapter XIV</span></a></p>
@@ -162,10 +162,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col6" style="">
+            <div class="col-12 col-md-5 Variable shadow  m-3" id="col6" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Subsidiaries Financial</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Annual Return</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Annexure XIV-B of Chapter XIV</span></a></p>
@@ -178,10 +178,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col7" style="">
+            <div class="col-12 col-md-5 Variable shadow  m-3" id="col7" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Subsidiaries Financial</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Other Disclosures</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Annexure XIV-B of Chapter XIV</span></a></p>
@@ -194,10 +194,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col8" style="">
+            <div class="col-12 col-md-5 Variable shadow  m-3" id="col8" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Subsidiaries Financial</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Grievance Redressal</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Annexure XIV-B of Chapter XIV</span></a></p>
@@ -210,10 +210,10 @@
                     </div>
                 </div>
             </div> 
-            <div class="col-12 col-md-5 Variable shadow  m-2" id="col8" style="">
+            <div class="col-12 col-md-5 Variable shadow  m-3" id="col8" style="">
                 <div class="card border-0">
                     <div class="card-body">
-                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">Subsidiaries Financial</h3>
+                        <h3 class="card-title anul-invs-hed fs-1 my-4 my-md-2 text-center text-md-start">RTA Details</h3>
                         <div class="card-text px-3 rounded" style="background-color: #EAF7FF;">
                             <div class="p-2 p-md-4">
                                 <p class="align-items-center pdf-txt "><a href="https://www.w3docs.com/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/vscode-icons_file-type-pdf2.svg" alt=""><span class="ms-3 fw-semibold">Annexure XIV-B of Chapter XIV</span></a></p>

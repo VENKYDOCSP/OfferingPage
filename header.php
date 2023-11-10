@@ -50,23 +50,24 @@
                     
                     
                     <li class="nav-item">
-                        <a class="nav-link cool-link" href="invester_relation.php">Investor relations</a> 
-                        <!-- <div class="dropdown">
-                            <button class="btn   dropdown-toggle drop_downBTN" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            investors relation
+                        <!-- <a class="nav-link cool-link" href="invester_relation.php">Investor relations</a>  -->
+                        <div class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle drop_downBTN" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Investors relation
                             </button>
                             <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="invester_relation#col1">Notice & Announcements</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col2">Corporate Governance</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col3">Codes & Policies</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col4">Financial Statement</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col5">Annual Report</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col6">Annual Return</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col7">Other Disclosures</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col8">Grievance Redressal</a></li>
-                            <li><a class="dropdown-item" href="invester_relation#col9">RTA Details</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col1">Notice & Announcements</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col2">Corporate Governance</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col3">Codes & Policies</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col4">Financial Statement</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col5">Annual Report</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col6">Annual Return</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col7">Other Disclosures</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col8">Grievance Redressal</a></li>
+                                <li><a class="dropdown-item" href="invester_relation.PHP#col8">RTA Details</a></li>
                             </ul>
-                        </div> -->
+                            
+                        </div>
                     </li>
 
                     <li class="nav-item">

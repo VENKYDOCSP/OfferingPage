@@ -709,7 +709,7 @@ a {
   color: white;
   transition: 0.2s;
 }
-.bg-img {
+.bg-img-offering {
   background-image: url("https://atmastco.s3.eu-north-1.amazonaws.com/backgroudoffering.png");
   background-size: cover;
 }
