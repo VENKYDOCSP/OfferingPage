@@ -32,7 +32,7 @@
     <div class="container my-5 py-1 py-md-3 pt-1 ">
         <div class="row   gap-5">
             <div class="regulari">
-                
+
                 <div class="col-3"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Frame+37781.png" alt=""></div>
                 <div class="col-3"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Frame+37783.png" alt=""></div>
                 <div class="col-3"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Frame+37784.png" alt=""></div>
@@ -43,7 +43,7 @@
                 <div class="col-3"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Frame+75.png" alt=""></div>
                 <div class="col-3"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Frame+76.png" alt=""></div>
                 <div class="col-3"><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Frame+37786.png" alt=""></div>
- 
+
             </div>
         </div>
     </div>
@@ -184,12 +184,13 @@
                     <div class=" img-hover"><img class="img-fluid mx-auto  text-center rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/IMG20230901163146.png" alt=""></div>
 
                 </div>
-               <div class="ps-2"> <p class="fs-6 fw-bold img-hed">Vedanta Aluminium Limited GAP-5 and ARS-3 </p>
-                <p class="text-justify">ATMASTCO Limited is carrying out a capacity enhancement project at Vedanta facilities in Jharsuguda Odisha. The project includes two major divisions which are GAP-5 and ARS-3. our unwavering commitment to excellence and innovation in the industrial</p>
-                <p class="moretext1" style="display: none; margin-top: -16px;"> landscape. In Jharsuguda, we are undertaking a visionary endeavour encompassing the meticulous engineering, supply, construction, and commissioning of the fifth Green Anode Plant with an impressive 35-ton per hour (TPH) capacity, vital for aluminum production. Simultaneously, at Vedanta's Third Anode Rodding Shop in the same location, we are embarking on the comprehensive EPC project for ARS-3, a cutting-edge facility with a substantial 40 TPH capacity of Anode rodding. Both These ventures, initiated on the 12th of February 2023 and include the precise erection of substantial tonnage structures, reinforcing our reputation as a leading force in the EPC</p>
-                <p class="moreless-button1 red-mor" style="cursor: pointer;margin-top: -10px; color: blue; ">Read more</p>
-                
-            </div>
+                <div class="ps-2">
+                    <p class="fs-6 fw-bold img-hed">Vedanta Aluminium Limited GAP-5 and ARS-3 </p>
+                    <p class="text-justify">ATMASTCO Limited is carrying out a capacity enhancement project at Vedanta facilities in Jharsuguda Odisha. The project includes two major divisions which are GAP-5 and ARS-3. our unwavering commitment to excellence and innovation in the industrial</p>
+                    <p class="moretext1" style="display: none; margin-top: -16px;"> landscape. In Jharsuguda, we are undertaking a visionary endeavour encompassing the meticulous engineering, supply, construction, and commissioning of the fifth Green Anode Plant with an impressive 35-ton per hour (TPH) capacity, vital for aluminum production. Simultaneously, at Vedanta's Third Anode Rodding Shop in the same location, we are embarking on the comprehensive EPC project for ARS-3, a cutting-edge facility with a substantial 40 TPH capacity of Anode rodding. Both These ventures, initiated on the 12th of February 2023 and include the precise erection of substantial tonnage structures, reinforcing our reputation as a leading force in the EPC</p>
+                    <p class="moreless-button1 red-mor" style="cursor: pointer;margin-top: -10px; color: blue; ">Read more</p>
+
+                </div>
             </div>
         </div>
         <div class="row pt-5 ">
@@ -201,39 +202,40 @@
 
                 </div>
                 <p class="fs-6 fw-bold img-hed">Jindal Stainless Limited </p>
-                <p>ATMASTCO is carrying out an Engineering Procurement and Supply (EPS) project with Jindal Stainless Ltd, Jajpur. This transformative project, initiated on the 4th of February 2022, is dedicated to the supply of a cutting-edge lime kiln along with associated 
+                <p>ATMASTCO is carrying out an Engineering Procurement and Supply (EPS) project with Jindal Stainless Ltd, Jajpur. This transformative project, initiated on the 4th of February 2022, is dedicated to the supply of a cutting-edge lime kiln along with associated
                 <p class="moretext2" style="display: none; margin-top: -16px;">technological structures and equipment, all designed to significantly enhance the production capacity of stainless steel plates and other products. The precise tonnage for the erection is a testament to the scale and importance of this venture. Our partnership with Jindal Stainless Ltd underscores our dedication to facilitating growth and evolution within the industry. </p>
                 <p class="moreless-button2 red-mor" style="cursor: pointer;margin-top: -10px; color: blue; ">Read more</p>
                 </p>
             </div>
             <div class="col-12 col-md-6 img-hoverr border-start">
-            <div class="projectcaro  pb-2  ">
+                <div class="projectcaro  pb-2  ">
                     <div class="img-hover"><img class="img-fluid mx-auto my-auto  rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/copper-.png" alt=""></div>
                     <div class=" img-hover"><img class="img-fluid mx-auto  text-center rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/copper-bars-and-rods.png" alt=""></div>
                     <div class="img-hover"><img class="img-fluid mx-auto text-center rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/ASTM-B111-Copper-Nickel-70-30-Round-Bars.png" alt=""></div>
                 </div>
-                <div class="ps-2"> <p class="fs-6 fw-bold img-hed">Adani Kutch Copper Limited </p>
-                <p>ATMASTCO Limited takes immense pride in our ongoing Engineering Procurement and Supply (EPS) collaboration with Adani-Kutch Copper Limited, Gujarat, the plant will be the most advanced installation of its kind in the world.
-                <p class="moretext3" style="display: none; margin-top: -16px;">The project commenced on the 3rd of August 2022, this transformative project involves the supply of cutting-edge technological equipment for the establishment of a continuous cast rod plant, complete with essential mechanical equipment for the Balance of Plant area, accessories, electrical components, and instrumentation. With a production capacity target of 0.25 million metric tons per annum, this endeavour is a significant step forward in the field of copper manufacturing and self-reliance in India.</p>
-                <p class="moreless-button3 red-mor" style="cursor: pointer;margin-top: 6px; color: blue; ">Read more</p>
-                 </div>
+                <div class="ps-2">
+                    <p class="fs-6 fw-bold img-hed">Adani Kutch Copper Limited </p>
+                    <p>ATMASTCO Limited takes immense pride in our ongoing Engineering Procurement and Supply (EPS) collaboration with Adani-Kutch Copper Limited, Gujarat, the plant will be the most advanced installation of its kind in the world.
+                    <p class="moretext3" style="display: none; margin-top: -16px;">The project commenced on the 3rd of August 2022, this transformative project involves the supply of cutting-edge technological equipment for the establishment of a continuous cast rod plant, complete with essential mechanical equipment for the Balance of Plant area, accessories, electrical components, and instrumentation. With a production capacity target of 0.25 million metric tons per annum, this endeavour is a significant step forward in the field of copper manufacturing and self-reliance in India.</p>
+                    <p class="moreless-button3 red-mor" style="cursor: pointer;margin-top: 6px; color: blue; ">Read more</p>
+                </div>
             </div>
         </div>
         <div class="row pt-5 ">
             <div class="col-12 col-md-6 img-hoverr ">
                 <div class="projectcarot  pb-2 ">
-                                      <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda1.png" alt=""></div>
+                    <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda1.png" alt=""></div>
                     <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda2.png" alt=""></div>
                     <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda3.png" alt=""></div>
                     <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda5.png" alt=""></div>
                     <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda6.png" alt=""></div>
                     <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda7.png" alt=""></div>
                     <div class="img-hover"><img class="img-fluid mx-auto my-auto rounded" width="90%" src="https://atmastco.s3.eu-north-1.amazonaws.com/tatajoda8.png" alt=""></div>
- 
+
                 </div>
-                <p class="fs-6 fw-bold img-hed pt-5">TATA Joda  </p>
+                <p class="fs-6 fw-bold img-hed pt-5">TATA Joda </p>
                 <p class="text-justify">ATMASTCO has undertaken the latest Engineering, Procurement, and Commissioning (EPC) project in collaboration with Tata Steel at the SiMn Ferro Alloy Plant in Joda, Odisha, a testament to our unwavering dedication to excellence and innovation within</p>
-                <p class="moretext4" style="display: none; margin-top: -16px;">   the industrial sector.Commencing on 02/02/2023, this transformative project involves the comprehensive design, supply, installation, and commissioning of two state-of-the-art 18 MVA Submerged Arc Furnaces, a critical addition to the production process of Silica Manganese, a key additive in steel manufacturing. The scope of this project includes the precise erection of an impressive 4000 tons structure.</p>
+                <p class="moretext4" style="display: none; margin-top: -16px;"> the industrial sector.Commencing on 02/02/2023, this transformative project involves the comprehensive design, supply, installation, and commissioning of two state-of-the-art 18 MVA Submerged Arc Furnaces, a critical addition to the production process of Silica Manganese, a key additive in steel manufacturing. The scope of this project includes the precise erection of an impressive 4000 tons structure.</p>
                 <p class="moreless-button4 red-mor" style="cursor: pointer;margin-top: -10px; color: blue; ">Read more</p>
                 </p>
             </div>
@@ -246,19 +248,19 @@
                 </div>
                 <p class="fs-6 fw-bold img-hed">Hindustan Zinc Limited (Vedanta Group) </p>
                 <p>ATMASTCO has successfully completed Engineering, Procurement, and EPC project at Vedanta-Hindustan Zinc Ltd in Rajasthan, a milestone achievement that reflects our unwavering commitment to excellence and innovation in the industrial sector.
-                <p class="moretext5" style="display: none; margin-top: -16px;">Commencing on the 7th of October 2021 and culminating on the 14th of March 2023, this transformative project was dedicated to enhancing the capacity of the existing plant by an impressive 25%. This remarkable feat involved a comprehensive scope, including the design, supply, and installation of various critical equipment, as well as the debottlenecking of the ball mill to augment its capacity from 2.5 to 3 million metric tons per annum.  </p>
+                <p class="moretext5" style="display: none; margin-top: -16px;">Commencing on the 7th of October 2021 and culminating on the 14th of March 2023, this transformative project was dedicated to enhancing the capacity of the existing plant by an impressive 25%. This remarkable feat involved a comprehensive scope, including the design, supply, and installation of various critical equipment, as well as the debottlenecking of the ball mill to augment its capacity from 2.5 to 3 million metric tons per annum. </p>
                 <p class="moreless-button5 red-mor" style="cursor: pointer;margin-top: -10px; color: blue; ">Read more</p>
                 </p>
             </div>
         </div>
 
-        
+
     </div>
     <!-- new end -->
 
 
-    
-<!-- <div class="container mb-5 pt-5">
+
+    <!-- <div class="container mb-5 pt-5">
  
     <div class="row">
         <div class="col-md-5 col-12 text-center d-flex align-items-center justify-content-start flex-column">

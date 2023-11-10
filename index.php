@@ -247,7 +247,7 @@
             <p class="fs-1 text-center fs-bold my-4 pt-2" style="color:#2D80C3; font-weight: 500;">Our Projects</p>
         </div>
         <div class=" ps-1 ps-md-5 pe-1 pe-md-5">
-            <p class=" ps-1 ps-md-5 fs-6 text-center pe-1 pe-md-3" style="font-weight: 400">Welcome to a world of EPC excellence where innovation meets precision. Our commitment extends beyond projects to offer a wide spectrum of structural steel goods and services, tailored to diverse sectors including manufacturing, power and energy, ferro and non-ferrous alloy refinement, infrastructure, and construction. Our Expert Engineers, Consultants, and Executors are the true artists who lead our teams to achieve our goals within the stipulated time and with utmost attention to quality.
+            <p class=" ps-1 ps-md-5 fs-6 text-center pe-1 pe-md-5" style="font-weight: 400">Welcome to a world of EPC excellence where innovation meets precision. Our commitment extends beyond projects to offer a wide spectrum of structural steel goods and services, tailored to diverse sectors including manufacturing, power and energy, ferro and non-ferrous alloy refinement, infrastructure, and construction. Our Expert Engineers, Consultants, and Executors are the true artists who lead our teams to achieve our goals within the stipulated time and with utmost attention to quality.
 Our portfolio includes top-tier services in project management, engineering, cutting-edge design, and invaluable consulting expertise. Discover the future of steel, meticulously engineered for your success, and experience the difference with us.
 </p>
         </div>
@@ -279,7 +279,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -292,7 +292,8 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button> 
+                                </i></button>
+                            <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
                 </div>
@@ -319,7 +320,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -332,7 +333,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
@@ -360,7 +361,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -373,7 +374,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
@@ -401,7 +402,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -414,7 +415,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
@@ -427,7 +428,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                             <p class="fs-4 desg-hed">Trading</p>
                             <p class="fs-6">We obtain steel components, materials, and goods from dependable producers, suppliers, and distributors for the infrastructure, manufacturing, and construction industries, Utilizing our supplier networks and industry knowledge.</p>
                         </div>
-                        <div class="ps-3 pb-4 svg-container">
+                        <div class=" pb-4 svg-container">
                             <span class="svgArrow">
                                 <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <g class="svg-img" clip-path="url(#clip0_489_3000)">
@@ -442,7 +443,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                     </defs>
                                 </svg>
                             </span>
-                            <button class="pt-1 pb-1 text-light fs-5 ">Know More <i>
+                            <p class="pt-1 pb-1 ps-2 pe-2 knowMore text-light fs-5 ">Know More <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
                                         <g clip-path="url(#clip0_1227_407)">
                                             <path d="M9.17188 22H34.8385" stroke="white" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
@@ -455,7 +456,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                                             </clipPath>
                                         </defs>
                                     </svg>
-                                </i></button>
+                                </i></p>
                             <a href="./Design_and_Engineering.php"></a>
                         </div>
                     </div>
