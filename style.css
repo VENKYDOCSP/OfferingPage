@@ -707,7 +707,7 @@ a {
 .dropdown-item:hover {
   background-color: var(--h1colour);
   color: white;
-  transition: 0.2s;
+ 
 }
 .bg-img-offering {
   background-image: url("https://atmastco.s3.eu-north-1.amazonaws.com/backgroudoffering.png");
@@ -718,15 +718,13 @@ a {
   width: 30%;
 }
 
-.howeverr{
-    transition: width 2s;
-}
+ 
  .knowMore {
   border-radius: 4px;
   background: #2d80c3;
   border: none;
-  width: 100px;
-  transition-timing-function: linear
+  width: 100px; 
+ 
   
 }
 
@@ -768,4 +766,10 @@ a {
 }
 .clr:hover{
     color: black !important;
+}
+
+.helmate-bg{
+    background-image: url('https://atmastco.s3.eu-north-1.amazonaws.com/Group+37857.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }

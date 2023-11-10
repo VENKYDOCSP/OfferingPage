@@ -43,7 +43,7 @@
     </div>
 </div>
 <!-- ourservice -->
-<p class="fs-1 our-serv-hed mt-2 mt-md-5 text-start text-md-center px-4 px-md-5">Our Services</p>
+<p class="fs-1 our-serv-hed mt-2 mt-md-5 text-start text-md-center px-4 px-md-5">Our Profile</p>
 <div class="container"> <p class="our-serv-cont text-start text-md-center px-4 px-md-5">ATMASTCO offers services to the steel sector with a focus on usability, security, and sustainability. We help clients with Mep contractors, cutting-edge technologies, and creative designs.</p>
 </div>
  <div class="container mt-5">
@@ -123,15 +123,15 @@
         Eget eget facilisis facilisis erat in arcu vitae eu. Est amet tincidunt nulla quisque turpis felis nunc
         amet posuere. Neque gravida praesent pra</p>
     <div class="container mt-4">
-        <div class="row">
+        <div class="row bg-dark rounded">
             <div class="col-12 col-md-6 p-4">
                 <p>
-                      <img class="img-fluid mt-4 rounded" src="https://atmastco.s3.eu-north-1.amazonaws.com/Group+37787.png" alt="">
+                      <img class="img-fluid mt-4 rounded" src="https://atmastco.s3.eu-north-1.amazonaws.com/13598+1+(1).png" alt="">
                 </p>
             </div>
-            <div class="col-12 col-md-6 p-2 p-md-4 my-auto  ">
-                <div class="shadow p-4 p-md-5 sid-inst-div bg-white rounded">
-                    <p><img class="img-fluid" src="https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1687353680/atmosco/Group_37493_1_toy8ka.svg" alt=""></p>
+            <div class="col-12 col-md-6 p-2 p-md-4 my-auto  helmate-bg"  >
+                <div class="  p-4 p-md-5 sid-inst-div   text-white rounded">
+                    <p><img class="img-fluid" src="https://atmastco.s3.eu-north-1.amazonaws.com/Group+37493.png" alt=""></p>
                     <p class="mt-5"> Lorem ipsum dolor sit amet consectetur. Tempus enim nec est quis. Eget eget
                         facilisis facilisis erat in arcu vitae eu. Est amet tincidunt nulla quisque turpis felis
                         nunc amet posuere. Neque gravida praesent pra Lorem ipsum dolor sit amet consectetur.
