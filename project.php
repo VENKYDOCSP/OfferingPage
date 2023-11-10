@@ -110,7 +110,7 @@
         </div>
     </div>
     <!-- Our Projects  -->
-    <div class="container mt-5">
+    <div class="container mt-5 d-none">
         <p class="text-center fs-1 vr-bldin-shp py-4">Our Projects </p>
         <p class="text-center">We are an expert in infrastructure development, urban renewal, and renewable energy, and it manages the design, building, and installation of wind turbines. In order to ensure effectiveness and environmental sustainability, we also renovate outdated textile factories. We prioritise community development and client satisfaction in our strategy.</p>
     </div>
@@ -158,7 +158,7 @@
     <!-- old end -->
 
     <!-- new -->
-    <div class="container my-5">
+    <div class="container my-5 d-none">
         <div class="row">
             <div class="col-12 col-md-6  ">
                 <div class="projectcaro  pb-2  ">
