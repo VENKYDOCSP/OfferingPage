@@ -262,7 +262,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                         <div class="col-9 ps-3">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon1.png" class="  img-icon" alt=""></span>
                             <p class="fs-4   desg-hed">Design and Engineering</p>
-                            <p class="fs-6">We provides design and build services for construction projects, with a priority on professional craftsmanship and preparation consistency. </p>
+                            <p class="fs-6 paratag">We provides design and build services for construction projects, with a priority on professional craftsmanship and preparation consistency. </p>
                         </div>
                         <div class="ps-3 pb-4 svg-container">
                             <span class="svgArrow">
@@ -303,7 +303,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                         <div class="col-9 ps-3">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon2.png" class="  img-icon" alt=""></span>
                             <p class="fs-4    desg-hed">Fabrication & Erection</p>
-                            <p class="fs-6">Our fabrication services concentrate on using modern techniques and qualified fabricators to create precise, effective steel components and structures.</p>
+                            <p class="fs-6 paratag">Our fabrication services concentrate on using modern techniques and qualified fabricators to create precise, effective steel components and structures.</p>
                         </div>
                         <div class="ps-3 pb-4 svg-container">
                             <span class="svgArrow">
@@ -344,7 +344,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                         <div class="col-9 ps-3">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon3.png" class="  img-icon" alt=""></span>
                             <p class="fs-4 desg-hed">EPC Projects</p>
-                            <p class="fs-6">We provide EPC services for steel projects, with a focus on design optimization, functionality, and efficiency. We find excellent supplies and parts, and a construction management team watches over the project's performance. </p>
+                            <p class="fs-6 paratag">We provide EPC services for steel projects, with a focus on design optimization, functionality, and efficiency. We find excellent supplies and parts, and a construction management team watches over the project's performance. </p>
                         </div>
                         <div class="ps-3 pb-4 svg-container">
                             <span class="svgArrow">
@@ -385,7 +385,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                         <div class="col-12 ps-3">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon4.png" class="  img-icon" alt=""></span>
                             <p class="fs-4 desg-hed">Equipment Supply</p>
-                            <p class="fs-6">For projects involving steel, We provide high-quality equipment supply services, working with dependable vendors to guarantee equipment satisfies quality standards.</p>
+                            <p class="fs-6 paratag">For projects involving steel, We provide high-quality equipment supply services, working with dependable vendors to guarantee equipment satisfies quality standards.</p>
                         </div>
                         <div class="ps-3 pb-4 svg-container">
                             <span class="svgArrow">
@@ -426,7 +426,7 @@ Our portfolio includes top-tier services in project management, engineering, cut
                         <div class="col-12  ">
                             <span><img src="https://atmastco.s3.eu-north-1.amazonaws.com/icon5.png" class="  img-icon" alt=""></span>
                             <p class="fs-4 desg-hed">Trading</p>
-                            <p class="fs-6">We obtain steel components, materials, and goods from dependable producers, suppliers, and distributors for the infrastructure, manufacturing, and construction industries, Utilizing our supplier networks and industry knowledge.</p>
+                            <p class="fs-6 paratag">We obtain steel components, materials, and goods from dependable producers, suppliers, and distributors for the infrastructure, manufacturing, and construction industries, Utilizing our supplier networks and industry knowledge.</p>
                         </div>
                         <div class=" pb-4 svg-container">
                             <span class="svgArrow">
